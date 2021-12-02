@@ -1,0 +1,25 @@
+[
+  [3, "CMPSC 121", 3, "CMPSC 122"],
+  [3, "ENGL 15", 4, "MATH 141"],
+  [4, "MATH 140", 4, "Science Sequence Course" ],
+  [1, "PSU 7", 3, "General Education Course"],
+  [4, "Science Sequence Course", 1.5, "General Education Course"],
+  [3, "CAS 100A", 3, "CMPSC 360"],
+  [3, "CMPSC 221", 3, "ENGL 202C"],
+  [2, "MATH 220", 3, "STAT 318"],
+  [3, "Science Sequence Course",3, "Computer Science and Science Elective"],
+  [3, "General Education Course", 3, "General Education Course"],
+  [1.5, "General Education Course"],
+  [3, "CMPSC 312", 3, "CMPSC 421"],
+  [3, "CMPSC 335", 3, "CMPSC 431W"],
+  [3, "CMPSC 465", 3, "CMPSC 474"],
+  [3, "SWENG 411", 3, "Computer Science and Science Elective"],
+  [3, "Computer Science and Science Elective", 3, "Supporting and Related Area"],
+  [3, "CMPSC 461", 3, "CMPSC 485W"],
+  [2, "CMPSC 484", 3, "Computing Elective"],
+  [3, "Computing Elective or Compute Science and Science Elective", 3, "Computer Science and Science Elective"],
+  [3, "General Education Selection", 3, "General Education Course"],
+  [3, "Computer Science and Science Elective", 3, "General Education Course"],
+  [3, "Supporting and Related Area"]
+
+]
